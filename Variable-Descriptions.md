@@ -2,7 +2,7 @@
 
 This document provides a description of the features and response variables found in the `data_forStudents.csv` file. 
 
-1. `Status` - whether the reference team was playing at *Home* or *Away*
+1. `Status` - whether the reference team was playing at **Home** or **Away**
 2. `CP` - Contested Possessions
 3. `UP` - Uncontested Possessions
 4. `ED` - Effective Disposals
@@ -22,7 +22,7 @@ This document provides a description of the features and response variables foun
 18. `R50` - Runs into inside 50
 19. `FF` - Free Kicks For
 20. `FA` - Free Kicks Against
-21. `DEFF` - Disposal Efficiency ($Effective Disposals / Total Disposals * 100$)
+21. `DEFF` - Disposal Efficiency (Effective Disposals / Total Disposals * 100)
 22. `CP.1` - Opposition Contested Possessions
 23. `UP.1` - Opposition Uncontested Possessions
 24. `ED.1` - Opposition Effective Disposals
@@ -42,5 +42,5 @@ This document provides a description of the features and response variables foun
 38. `R50.1` - Opposition Runs into inside 50
 39. `FF.1` - Opposition Free Kicks For
 40. `FA.1` - Opposition Free Kicks Against
-41. `DEFF.1` - Disposal Efficiency ($Effective Disposals / Total Disposals * 100$)
-42. `OUTCOME` - Whether the reference team won *(W)*, lost *(L)* or drew *(D)* the match. **Response Variable** 
+41. `DEFF.1` - Opposition Disposal Efficiency (Effective Disposals / Total Disposals * 100)
+42. `OUTCOME` - Whether the reference team won **(W)**, lost **(L)** or drew **(D)** the match. *This is the Response Variable* 
