@@ -1,0 +1,43 @@
+﻿Variable,Description
+Status, Whether the reference team was playing at Home or Away
+CP, Contested Possessions
+UP, Uncontested Possessions
+ED, Effective Disposals
+CM, Contested Marks
+MI5, Marks inside 50
+One.Percenters, One Percenters
+BO, Bounces
+K, Kicks
+HB, Handballs
+D, Disposals
+M, Marks
+T, Tackles
+HO, Hit Outs
+I50, Inside 50s
+CL, Clearances
+CG, Clangers
+R50, Runs into inside 50
+FF, Free Kicks For
+FA, Free Kicks Against
+DEFF, Disposal Efficiency (Effective Disposals / Total Disposals * 100)
+CP.1, Opposition Contested Possessions
+UP.1, Opposition Uncontested Possessions
+ED.1, Opposition Effective Disposals
+CM.1, Opposition Contested Marks
+MI5.1, Opposition Marks inside 50
+One.Percenters.1, Opposition One Percenters
+BO.1, Opposition Bounces
+K.1, Opposition Kicks
+HB.1, Opposition Handballs
+D.1, Opposition Disposals
+M.1, Opposition Marks
+T.1, Opposition Tackles
+HO.1, Opposition Hit Outs
+I50.1, Opposition Inside 50s
+CL.1, Opposition Clearances
+CG.1, Opposition Clangers
+R50.1, Opposition Runs into inside 50
+FF.1, Opposition Free Kicks For
+FA.1, Opposition Free Kicks Against
+DEFF.1, Opposition Disposal Efficiency (Effective Disposals / Total Disposals * 100)
+OUTCOME," Whether the reference team won (W), lost (L) or drew (D) the match. This is the Response Variable"
